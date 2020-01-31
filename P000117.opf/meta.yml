@@ -1,0 +1,42 @@
+ebook_metadata:
+  title: ༄༅། །རྒྱལ་བའི་སྲས་ཀྱི་ལག་ལེན་སོ་བདུན་མའི་འགྲེལ་ཆུང་གཞན་ཕན་འཇུག་སྒོ་ཞེས་བྱ་བཞུགས་སོ།
+    །
+  authors:
+  - རྩ་བ། རྒྱལ་སྲས་ཐོགས་མེད།
+  - འགྲེལ་པ། སངས་རྒྱས་མཉན་པ།
+  - བན་ཆེན་ལེགས་བཤད་རྒྱུན་སྐྱོང་ཁང་ནས་པར་དུ་སྐྲུན།
+  sku: BEN-LB-002
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - yigchung
+web_metadata:
+  title:
+    en: An Entrance to the Way of Altruism:A Short Commentary on the Thirty-Seven
+      Practices of a Bodhisattva
+    bo: རྒྱལ་བའི་སྲས་ཀྱི་ལག་ལེན་སོ་བདུན་མའི་འགྲེལ་ཆུང་གཞན་ཕན་འཇུག་སྒོ་ཞེས་བྱ་བཞུགས་སོ།།
+  collection:
+    en: Benchen Library–  Book 2
+    bo: བེན་ཆེན་དཔེ་མཛོད་ཁང་།–  དེབ། ༢
+  author:
+    en: Authors:Gyalse Tokme,Kyabje Sangye Nyenpa Rinpoche
+    bo: ༧སྐྱབས་རྗེ་སངས་རྒྱས་མཉན་པ་རིན་པོ་ཆེ།,རྒྱལ་སྲས་ཐོགས་མེད།
+  pusblisher:
+    en: Benchen Publications
+    bo: བེན་ཆེན་སློབ་གཉེར་ཁང་།
+  sku: BEN-LB-002
+  category:
+    en: Mind Training
+    bo: བློ་སྦྱོང།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: BEN-LB-002.epub
+  description:
+    en: ''
+    bo: པོད་འདིའི་ནང་ལ་དངུལ་ཆུ་རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོས་མཛད་པའི་རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་པའི་འགྲེལ་པ་༧སྐྱབས་རྗེ་གྲུབ་དབང་སངས་རྒྱས་མཉན་པ་རིན་པོ་ཆེས་མཛད་པ་ཞིག་བཞུགས་ཡོད།
